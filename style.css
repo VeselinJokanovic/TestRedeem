@@ -1,0 +1,10 @@
+body{
+    display: grid;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+table th, table td, table tr{
+    border: 2px solid;
+}
